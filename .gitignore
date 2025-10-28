@@ -1,0 +1,10 @@
+
+/vendor/
+
+
+.env
+
+/writable/cache/
+/writable/logs/
+/writable/sessions/
+/writable/uploads/
