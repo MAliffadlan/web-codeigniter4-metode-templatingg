@@ -7,7 +7,7 @@
 ## 📸 Tampilan Website
 
 Tampilan Halaman Utama (Home) dengan Hero Section dan Card Interaktif.
-![Tampilan Homepage Proyek](https://github.com/user-attachments/assets/461e61bf-ecb1-4b63-9dd1-957fdf12a49c)
+![Tampilan Homepage Proyek](https://github.com/user-attachments/assets/01c7443d-4b71-46c4-a810-467a5be1653d)
 
 ---
 
